@@ -1,95 +1,109 @@
-export const content = {
-  name: "Mounika Varipalli",
+export const story = {
+  beginning: {
+    title: "The Beginning",
+    text: `
+On 10 February 2023,
+a simple message arrived.
 
-  birthday: "19 June 2026",
-
-  relationship: "3 Years 4 Months",
-
-  heroTitle: "Happy Birthday My Love ❤️",
-
-  heroSubtitle:
-    "A small corner of the internet made only for you.",
-
-  timeline: [
-    {
-      title: "The First Message",
-      date: "10 February 2023",
-      description:
-        "The day a simple message started the most beautiful chapter of my life.",
-    },
-    {
-      title: "First Meeting",
-      date: "College Event",
-      description:
-        "Seeing you in person for the first time felt different. I never imagined how important you would become to me.",
-    },
-    {
-      title: "First Journey",
-      date: "Amalapuram Return Trip",
-      description:
-        "A simple bus ride became one of my favorite memories because it was with you.",
-    },
-    {
-      title: "First Argument",
-      date: "A Lesson in Love",
-      description:
-        "Not because we fought, but because we chose each other and learned how to understand one another.",
-    },
-    {
-      title: "The Proposal",
-      date: "21 March 2025",
-      description:
-        "The day I listened to my heart and asked you to be a permanent part of my life.",
-    },
-  ],
-
-  dreams: [
-    "Travel together ✈️",
-    "Build our dream home 🏡",
-    "Start a family ❤️",
-    "Support each other through every challenge 🤝",
-    "Celebrate every birthday together 🎂",
-    "Grow old together 👴👵",
-    "Love, argue, understand and solve every situation together 🌹",
-  ],
-
-  reasons: [
-    "Your smile",
-    "Your kindness",
-    "Your honesty",
-    "Your patience",
-    "Your support",
-    "Your beautiful heart",
-    "The way you care",
-    "The way you understand me",
-    "The way you inspire me",
-    "The future I see with you",
-  ],
-
-  letter: `
-My Dear Mounika,
-
-From the first message on 10 February 2023 to this very moment,
-you have become the most beautiful part of my life.
-
-Thank you for every smile,
-every memory,
-every lesson,
-every moment of support.
-
-I don't just dream about tomorrow.
-
-I dream about a future where every tomorrow has you in it.
-
-No matter what life brings us,
-I promise to keep choosing you,
-respecting you,
-supporting you,
-and loving you.
-
-Happy Birthday My Love ❤️
-
-Forever Yours,
-Raju
+At that moment,
+I didn't know that one conversation
+would slowly become one of the most important parts of my life.
 `,
+  },
+
+  admiration: {
+    title: "The Girl I Admired",
+    text: `
+It wasn't just your smile.
+
+It was your strength.
+
+Your thinking.
+
+Your dreams.
+
+The way you looked at life.
+
+The more I knew you,
+the more I admired you.
+`,
+  },
+
+  challenge: {
+    title: "The Challenge You Gave Me",
+    text: `
+When I proposed,
+you didn't immediately say yes.
+
+Instead,
+you asked me to build a future first.
+
+At first,
+I saw it as a challenge.
+
+Later,
+I understood it was responsibility.
+
+You wanted someone capable of protecting,
+supporting,
+and building a life together.
+
+So I worked toward that goal.
+`,
+  },
+
+  waiting: {
+    title: "What Never Changed",
+    text: `
+Time passed.
+
+Life changed.
+
+Many things changed.
+
+But one thing never changed.
+
+The respect I have for you.
+
+The admiration I have for you.
+
+And the place you hold in my heart.
+`,
+  },
+
+  future: {
+    title: "The Future I Imagine",
+    text: `
+A home filled with laughter.
+
+Weekend trips.
+
+Conversations that never end.
+
+Arguments that end with understanding.
+
+Supporting each other through every challenge.
+
+Growing together.
+
+Growing old together.
+`,
+  },
+
+  gratitude: {
+    title: "Thank You",
+    text: `
+This website is not a request.
+
+It is a thank you.
+
+Thank you for every memory.
+
+Thank you for every lesson.
+
+Thank you for every smile.
+
+And thank you for being one of the most important chapters of my life.
+`,
+  },
 };
