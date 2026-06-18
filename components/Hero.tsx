@@ -1,76 +1,52 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { content } from "@/lib/content";
+import { images } from "@/lib/images";
 
 export default function Hero() {
-  return (
-    <section className="relative min-h-screen overflow-hidden bg-gradient-to-b from-rose-100 via-pink-100 to-white flex items-center justify-center">
+return ( <section className="relative min-h-screen overflow-hidden">
 
-      {/* Floating background blur */}
-      <div className="absolute top-20 left-10 w-40 h-40 bg-pink-300/30 rounded-full blur-3xl" />
-      <div className="absolute bottom-20 right-10 w-56 h-56 bg-rose-300/30 rounded-full blur-3xl" />
+```
+  <img
+    src={images.hero}
+    alt="Mounika"
+    className="absolute inset-0 w-full h-full object-cover"
+  />
 
-      <div className="max-w-4xl mx-auto px-6 text-center relative z-10">
+  <div className="absolute inset-0 bg-black/45" />
 
-        <motion.p
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 1 }}
-          className="uppercase tracking-[0.4em] text-rose-500 text-sm"
-        >
-          19 June 2026
-        </motion.p>
+  <div className="relative z-10 min-h-screen flex flex-col justify-center items-center text-center px-6">
 
-        <motion.h1
-          initial={{ opacity: 0, scale: 0.95 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 1.2 }}
-          className="text-6xl md:text-8xl font-bold text-rose-600 mt-6"
-        >
-          Mounika ❤️
-        </motion.h1>
+    <motion.p
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      className="text-white tracking-[0.3em] uppercase"
+    >
+      19 June 2026
+    </motion.p>
 
-        <motion.p
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 0.8, duration: 1 }}
-          className="mt-8 text-xl md:text-2xl text-gray-700 leading-relaxed"
-        >
-          Every love story is beautiful.
-          <br />
-          But ours is my favorite.
-        </motion.p>
+    <motion.h1
+      initial={{ opacity: 0, y: 30 }}
+      animate={{ opacity: 1, y: 0 }}
+      className="text-white text-5xl md:text-7xl font-bold mt-6"
+    >
+      Happy Birthday ❤️
+    </motion.h1>
 
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 1.8 }}
-          className="mt-16"
-        >
-          <p className="text-gray-500">
-            A story that started on
-          </p>
+    <h2 className="text-pink-200 text-3xl md:text-5xl mt-4">
+      Mounika
+    </h2>
 
-          <p className="text-2xl font-semibold text-rose-500 mt-2">
-            10 February 2023
-          </p>
-        </motion.div>
+    <p className="text-white/90 max-w-xl mt-8 text-lg">
+      Every love story is beautiful.
+      <br />
+      But ours is my favorite.
+    </p>
 
-        <motion.div
-          animate={{
-            y: [0, 12, 0],
-          }}
-          transition={{
-            duration: 2,
-            repeat: Infinity,
-          }}
-          className="mt-16 text-4xl text-rose-400"
-        >
-          ↓
-        </motion.div>
+  </div>
 
-      </div>
-    </section>
-  );
+</section>
+
+);
 }
+
