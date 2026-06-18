@@ -1,3 +1,19 @@
+export const content = {
+  name: "Mounika Varipalli",
+  heroTitle: "Happy Birthday Mounika ❤️",
+  heroSubtitle: "Every love story is beautiful. But ours is my favorite.",
+
+  letter: `
+My Dear Mounika,
+
+Today is your birthday.
+
+Happy Birthday ❤️
+
+Forever Yours,
+Raju
+`,
+};
 export const story = {
 beginning: {
 title: "The Beginning",
