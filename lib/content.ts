@@ -1,65 +1,3 @@
-export const content = {
-name: "Mounika Varipalli",
-heroTitle: "Happy Birthday Mounika ❤️",
-heroSubtitle: "Every love story is beautiful. But ours is my favorite.",
-
-letter: `
-My Dear Mounika,
-
-Today is your birthday.
-
-And while everyone else may wish you happiness, success, and good health, I want to thank you.
-
-Thank you for the memories we created.
-
-Thank you for the lessons you taught me.
-
-Thank you for challenging me to become a better version of myself.
-
-When I first spoke to you on 10 February 2023, I never imagined how important you would become in my life.
-
-Since then, we have shared conversations, journeys, laughter, misunderstandings, dreams, and countless memories that I will always carry with me.
-
-When I proposed, you didn't simply give me an answer.
-
-You gave me a goal.
-
-At first I saw it as a challenge.
-
-Today I understand it was a lesson in responsibility.
-
-I worked towards that goal because I believed in the future we often imagined together.
-
-Today I stand here having achieved it.
-
-But more importantly, I stand here as someone who has grown because of this journey.
-
-I don't know what answer the future holds.
-
-I don't know how many chapters are still waiting to be written.
-
-But I do know this:
-
-My respect for you never changed.
-
-My admiration for you never changed.
-
-And the place you hold in my heart never changed.
-
-Happy Birthday, Mounika ❤️
-
-The job is here.
-
-The dreams are still here.
-
-And I am still looking forward to the chapters we haven't written yet.
-
-Forever Yours,
-
-Raju
-`,
-};
-
 export const story = {
 beginning: {
 title: "The Beginning",
@@ -88,6 +26,26 @@ The way you looked at life.
 
 The more I knew you,
 the more I admired you.
+`,
+},
+
+firstMeeting: {
+title: "The First Meeting",
+text: `
+Messages are one thing.
+
+Meeting someone in person is different.
+
+I still remember seeing you at that college event.
+
+It was just another day for everyone else.
+
+But for me,
+it became one of the memories I would carry for years.
+
+Sometimes a moment feels ordinary while it is happening.
+
+Only later do you realize how important it was.
 `,
 },
 
@@ -124,6 +82,26 @@ Because sometimes the destination is not what matters.
 The person beside you does.
 
 That journey gave me memories I still smile about today.
+`,
+},
+
+proposal: {
+title: "The Day I Asked",
+text: `
+21 March 2025.
+
+A day I will never forget.
+
+That was the day I gathered the courage
+to tell you what my heart had been carrying for so long.
+
+I didn't know what the answer would be.
+
+I only knew that my feelings were real.
+
+And I wanted you to know them.
+
+That day changed my life forever.
 `,
 },
 
@@ -202,11 +180,13 @@ There were moments I doubted myself.
 
 But I never stopped moving.
 
+Today I achieved the goal you asked me to achieve.
+
+Not because I was forced to.
+
+But because I wanted to become worthy of the future we spoke about.
+
 Today I finally achieved that goal.
-
-Not because I wanted to prove something.
-
-But because I wanted to become the person capable of building the future we once spoke about.
 `,
 },
 
