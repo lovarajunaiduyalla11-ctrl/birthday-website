@@ -6,7 +6,7 @@ import { images } from "@/lib/images";
 export default function Hero() {
 return ( <section className="relative min-h-screen overflow-hidden">
 
-```
+
   <img
     src={images.hero}
     alt="Mounika"
@@ -93,7 +93,7 @@ return ( <section className="relative min-h-screen overflow-hidden">
   </div>
 
 </section>
-```
+
 
 );
 }
