@@ -5,7 +5,6 @@ export const images = {
 
   gallery: [
     "/images/birthday-image.jpg",
-    "/images/couple-us.jpg",
 
     "/images/01.jpg",
     "/images/02.jpg",
