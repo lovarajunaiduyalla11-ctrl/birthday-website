@@ -6,13 +6,14 @@ import { images } from "@/lib/images";
 export default function Hero() {
 return ( <section className="relative min-h-screen overflow-hidden">
 
+```
   <img
     src={images.hero}
     alt="Mounika"
-    className="absolute inset-0 w-full h-full object-cover"
+    className="absolute inset-0 w-full h-full object-cover object-[75%_center] md:object-center"
   />
 
-  <div className="absolute inset-0 bg-black/40" />
+  <div className="absolute inset-0 bg-black/45" />
 
   <div className="relative z-10 min-h-screen flex items-center">
 
@@ -36,8 +37,8 @@ return ( <section className="relative min-h-screen overflow-hidden">
       </motion.h1>
 
       <motion.h2
-        initial={{ opacity: 0, x: -40 }}
-        animate={{ opacity: 1, x: 0 }}
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
         transition={{ delay: 0.3 }}
         className="text-pink-200 text-3xl md:text-5xl mt-3"
       >
@@ -92,7 +93,7 @@ return ( <section className="relative min-h-screen overflow-hidden">
   </div>
 
 </section>
-
+```
 
 );
 }
