@@ -91,6 +91,42 @@ the more I admired you.
 `,
 },
 
+firstStorm: {
+title: "The First Storm",
+text: `
+Not every memory is about happiness.
+
+One of my favorite memories is actually our first argument.
+
+Not because we fought.
+
+But because we chose to understand each other instead of walking away.
+
+That day taught me that relationships are not built on perfect moments.
+
+They are built on patience,
+understanding,
+and choosing each other even when things become difficult.
+`,
+},
+
+journey: {
+title: "A Simple Journey",
+text: `
+To the world,
+it may have been just a bus journey.
+
+To me,
+it became one of my favorite memories.
+
+Because sometimes the destination is not what matters.
+
+The person beside you does.
+
+That journey gave me memories I still smile about today.
+`,
+},
+
 challenge: {
 title: "The Challenge You Gave Me",
 text: `
@@ -151,6 +187,29 @@ I stand here having achieved that goal.
 `,
 },
 
+jobAchievement: {
+title: "A Goal Finally Reached",
+text: `
+You asked me to build a future first.
+
+I accepted that challenge.
+
+There were stressful days.
+
+There were uncertain days.
+
+There were moments I doubted myself.
+
+But I never stopped moving.
+
+Today I finally achieved that goal.
+
+Not because I wanted to prove something.
+
+But because I wanted to become the person capable of building the future we once spoke about.
+`,
+},
+
 waiting: {
 title: "The Waiting",
 text: `
@@ -180,28 +239,43 @@ Reasons to keep choosing you.
 `,
 },
 
-future: {
-title: "The Future I Imagine",
+whyStayed: {
+title: "Why I Stayed",
 text: `
-A home filled with laughter.
+People often ask why someone waits.
 
-Weekend trips.
+The answer is simple.
 
-Conversations that never end.
+Because some people are worth waiting for.
 
-Arguments that end with understanding.
+Because some connections are rare.
 
-Supporting each other through every challenge.
+Because some dreams refuse to leave your heart.
 
-Growing together.
+And because every version of my future somehow still has you in it.
+`,
+},
+
+future: {
+title: "The Future We Imagined",
+text: `
+A small home.
+
+Weekend grocery shopping.
+
+Late-night conversations.
+
+Traveling together.
+
+Celebrating birthdays together.
+
+Supporting each other through difficult days.
 
 Growing old together.
 
-Building a family.
+Not because life would be perfect.
 
-Creating memories.
-
-And writing the rest of our story together.
+But because we would face it together.
 `,
 },
 
