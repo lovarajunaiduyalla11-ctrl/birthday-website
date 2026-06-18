@@ -5,7 +5,6 @@ import { content } from "@/lib/content";
 export default function LoveLetter() {
 return ( <section className="py-24 px-6 bg-gradient-to-b from-pink-50 to-rose-100">
 
-```
   <div className="max-w-4xl mx-auto">
 
     <h2 className="text-5xl font-bold text-center text-rose-600 mb-4">
@@ -22,7 +21,6 @@ return ( <section className="py-24 px-6 bg-gradient-to-b from-pink-50 to-rose-10
 
 {content.letter} </pre>
 
-```
       <div className="mt-12 pt-8 border-t border-pink-100 text-center">
 
         <p className="text-rose-500 text-lg italic">
@@ -40,7 +38,6 @@ return ( <section className="py-24 px-6 bg-gradient-to-b from-pink-50 to-rose-10
   </div>
 
 </section>
-```
 
 );
 }
