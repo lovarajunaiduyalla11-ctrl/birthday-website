@@ -1,26 +1,69 @@
 export const content = {
-  name: "Mounika Varipalli",
-  heroTitle: "Happy Birthday Mounika ❤️",
-  heroSubtitle: "Every love story is beautiful. But ours is my favorite.",
-  letter: `
+name: "Mounika Varipalli",
+heroTitle: "Happy Birthday Mounika ❤️",
+heroSubtitle: "Every love story is beautiful. But ours is my favorite.",
+
+letter: `
 My Dear Mounika,
 
-Thank you for every memory,
-every lesson,
-every smile,
-and every moment we shared.
+Today is your birthday.
 
-Happy Birthday ❤️
+And while everyone else may wish you happiness, success, and good health, I want to thank you.
+
+Thank you for the memories we created.
+
+Thank you for the lessons you taught me.
+
+Thank you for challenging me to become a better version of myself.
+
+When I first spoke to you on 10 February 2023, I never imagined how important you would become in my life.
+
+Since then, we have shared conversations, journeys, laughter, misunderstandings, dreams, and countless memories that I will always carry with me.
+
+When I proposed, you didn't simply give me an answer.
+
+You gave me a goal.
+
+At first I saw it as a challenge.
+
+Today I understand it was a lesson in responsibility.
+
+I worked towards that goal because I believed in the future we often imagined together.
+
+Today I stand here having achieved it.
+
+But more importantly, I stand here as someone who has grown because of this journey.
+
+I don't know what answer the future holds.
+
+I don't know how many chapters are still waiting to be written.
+
+But I do know this:
+
+My respect for you never changed.
+
+My admiration for you never changed.
+
+And the place you hold in my heart never changed.
+
+Happy Birthday, Mounika ❤️
+
+The job is here.
+
+The dreams are still here.
+
+And I am still looking forward to the chapters we haven't written yet.
 
 Forever Yours,
+
 Raju
 `,
 };
 
 export const story = {
-  beginning: {
-    title: "The Beginning",
-    text: `
+beginning: {
+title: "The Beginning",
+text: `
 On 10 February 2023,
 a simple message arrived.
 
@@ -28,11 +71,11 @@ At that moment,
 I didn't know that one conversation
 would slowly become one of the most important parts of my life.
 `,
-  },
+},
 
-  admiration: {
-    title: "The Girl I Admired",
-    text: `
+admiration: {
+title: "The Girl I Admired",
+text: `
 It wasn't just your smile.
 
 It was your strength.
@@ -46,11 +89,11 @@ The way you looked at life.
 The more I knew you,
 the more I admired you.
 `,
-  },
+},
 
-  challenge: {
-    title: "The Challenge You Gave Me",
-    text: `
+challenge: {
+title: "The Challenge You Gave Me",
+text: `
 When I proposed,
 you didn't immediately say yes.
 
@@ -63,32 +106,83 @@ I saw it as a challenge.
 Later,
 I understood it was responsibility.
 
-So I worked toward that goal.
+You wanted someone capable of building a future,
+not just dreaming about one.
+
+That moment changed me.
 `,
-  },
+},
 
-  waiting: {
-    title: "What Never Changed",
-    text: `
-Time passed.
+promise: {
+title: "The Promise I Chose To Keep",
+text: `
+When I asked you to be part of my future,
+you didn't give me an answer.
 
-Life changed.
+Instead,
+you gave me a responsibility.
 
-Many things changed.
+You told me to build my career first.
 
-But one thing never changed.
+At that moment,
+I thought I was being asked to get a job.
 
-The respect I have for you.
+Later,
+I realized you were asking something much bigger.
 
-The admiration I have for you.
+You wanted me to become someone capable of building a life,
+not just dreaming about one.
 
-And the place you hold in my heart.
+There were days I felt discouraged.
+
+Days I questioned myself.
+
+Days I wondered if I would reach the goal in time.
+
+But every time I felt like giving up,
+I remembered the future we used to talk about.
+
+So I kept moving.
+
+One step at a time.
+
+And today,
+I stand here having achieved that goal.
 `,
-  },
+},
 
-  future: {
-    title: "The Future I Imagine",
-    text: `
+waiting: {
+title: "The Waiting",
+text: `
+The job was never the finish line.
+
+It was only one promise I wanted to keep.
+
+I know the future still has unanswered questions.
+
+I know some answers take time.
+
+But waiting never made my feelings smaller.
+
+It never reduced my respect for you.
+
+It never reduced my belief in what we could become.
+
+Some people count days while they wait.
+
+I count reasons.
+
+Reasons to stay patient.
+
+Reasons to keep believing.
+
+Reasons to keep choosing you.
+`,
+},
+
+future: {
+title: "The Future I Imagine",
+text: `
 A home filled with laughter.
 
 Weekend trips.
@@ -102,23 +196,38 @@ Supporting each other through every challenge.
 Growing together.
 
 Growing old together.
-`,
-  },
 
-  gratitude: {
-    title: "Thank You",
-    text: `
+Building a family.
+
+Creating memories.
+
+And writing the rest of our story together.
+`,
+},
+
+gratitude: {
+title: "A Piece Of My Heart",
+text: `
 This website is not a request.
 
-It is a thank you.
+And it is not a goodbye.
 
-Thank you for every memory.
+It is simply a piece of my heart.
 
-Thank you for every lesson.
+A collection of memories,
+dreams,
+lessons,
+and hopes.
 
-Thank you for every smile.
+No matter what answer the future holds,
+I will always be grateful for this journey.
 
-And thank you for being one of the most important chapters of my life.
+Because meeting you changed me.
+
+Loving you changed me.
+
+And becoming the man I am today
+was part of a promise that began with you.
 `,
-  },
+},
 };
