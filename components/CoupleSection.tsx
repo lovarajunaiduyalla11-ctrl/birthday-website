@@ -11,7 +11,7 @@ export default function CoupleSection() {
       </h2>
 
       <p className="text-center text-gray-600 mb-12">
-        One photo. Countless memories.
+        One Photo. A Thousand Memories.
       </p>
 
       <div className="max-w-md mx-auto">
@@ -34,6 +34,13 @@ export default function CoupleSection() {
         <p className="text-lg text-gray-700 leading-8 mt-4">
           Because it reminds me that some moments
           are too beautiful to be measured by time.
+        </p>
+
+        <p className="text-lg text-gray-700 leading-8 mt-4">
+          Every memory,
+          every laugh,
+          every conversation,
+          and every dream somehow leads back here.
         </p>
 
         <p className="text-xl font-semibold text-rose-500 mt-8">
