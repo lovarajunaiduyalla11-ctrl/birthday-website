@@ -19,7 +19,6 @@ return ( <section className="py-24 px-6 bg-gradient-to-b from-pink-50 to-rose-10
     <div className="bg-white rounded-3xl shadow-2xl p-8 md:p-14 border border-pink-100">
 
       <pre className="whitespace-pre-wrap text-lg md:text-xl leading-10 text-gray-700 font-serif">
-```
 
 {content.letter} </pre>
 
