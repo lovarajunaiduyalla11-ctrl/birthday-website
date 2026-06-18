@@ -1,3 +1,4 @@
+import MusicPlayer from "@/components/MusicPlayer";
 import Hero from "@/components/Hero";
 import RelationshipCounter from "@/components/RelationshipCounter";
 import StorySection from "@/components/StorySection";
